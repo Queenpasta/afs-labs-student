@@ -1,4 +1,4 @@
---
+-- Hello World 2
 -- PostgreSQL database dump
 --
 
